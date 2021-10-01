@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../new-front-angular-source/.idea/new-front-angular-source.iml" filepath="$PROJECT_DIR$/../new-front-angular-source/.idea/new-front-angular-source.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/noman-rauf.github.io.iml" filepath="$PROJECT_DIR$/.idea/noman-rauf.github.io.iml" />
     </modules>
   </component>
